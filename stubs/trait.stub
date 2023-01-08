@@ -1,0 +1,10 @@
+<?php
+
+namespace $NAMESPACE$;
+
+trait $CLASSNAME$Trait
+{
+
+    //
+
+}
